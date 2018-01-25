@@ -11,5 +11,6 @@ package hojatrabajokhj;
  * @author lab-205
  */
 public class NewClass {
+    String mensaje="hola"; 
     
 }
