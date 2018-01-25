@@ -11,7 +11,9 @@ package hojatrabajokhj;
  * @author LAB-205
  */
 public class HojaTrabajokhj {
-
+    
+     String nombre;
+     int valor;
     /**
      * @param args the command line arguments
      */
@@ -19,4 +21,8 @@ public class HojaTrabajokhj {
         // TODO code application logic here
     }
     
+    public String getNombre (){
+       return nombre; 
+       
+    }
 }
