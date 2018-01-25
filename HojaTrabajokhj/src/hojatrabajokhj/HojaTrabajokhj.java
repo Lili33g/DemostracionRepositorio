@@ -20,6 +20,16 @@ public class HojaTrabajokhj {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setValor(int valor) {
+        this.valor = valor;
+    }
+    
+    
     
     public String getNombre (){
        return nombre; 
