@@ -25,4 +25,8 @@ public class HojaTrabajokhj {
        return nombre; 
        
     }
+    
+    public int getValor(){
+      return valor;
+    }
 }
